@@ -1,7 +1,5 @@
 <a href="https://github.com/quintuslabs/GroceryStore"><img src="screen/logo.png" height="150px" width="150px" title="Grocery" alt="Grocery Store"></a>
 
-* [GroceryStore](https://github.com/quintuslabs/GroceryStore/blob/master/GroceryStore1.0.apk) - Download APK
-
 
 # GroceryStore
 Grocery App, is online shopping UI Kit, geniune mobile application to which you can rely on. It guides you to formulate incredible mobile application. It comprise of 10+ screens with different features to navigate screens easily.
