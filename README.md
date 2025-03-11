@@ -15,18 +15,3 @@ The screen contains more than 60 icons and most of all required elements require
    Everything was made with a detail oriented style and followed by today's web trends. Clean coded & Layers are well-organized, carefully named, and grouped.
 
 ```
-
-**Description**
-
--Grocery App Template
-- Grocery App UI is supported in all Devices.
-- Change text, colours an graphics, add or place photos.
-- Customize every elements as much, or as little as you want.
-- Customise elements (easy to edit)
-- 100% free fonts
-- Perfect pixel (high quality design)
-- Very clean and cool UI
-- Free updates
-- license
--Api Integration not included
--For Api integration Please Contact us:- contact@quintuslabs.com
